@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Myriad Set Pro';
+    src: url('//www.apple.com/wss/fonts/Myriad-Set-Pro/v1/myriad-set-pro_thin.woff'); /*URL to font*/
+}
+
+.fa-apple-pay:before {
+    content:'\f179';
+}
+
+.fa-apple-pay:after {
+    font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
+    content:"Pay";
+    padding-right:0.1em;
+}
+
+.fa-apple-pay-bordered {
+    padding: 0.4em 0.2em;
+    display:inline-block;
+    border:2px solid black;
+    border-radius: 5px;
+}
