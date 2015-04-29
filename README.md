@@ -7,13 +7,13 @@ Instructions:
 
 1. Add font-awesome-apple-pay to your CSS files:
 
-           <link rel="stylesheet" href="https://raw.githubusercontent.com/LegoStormtroopr/font-awesome-apple-pay/master/fa-apple-pay.css" type="text/css">
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/LegoStormtroopr/font-awesome-apple-pay/master/fa-apple-pay.css" type="text/css">
        
 2. Use the `fa-apple-pay` or `fa-apple-pay-bordered` classes in place of a Font Awesome class:
 
-           <i class="fa fa-apple fa-apple-pay"></i>
-           <i class="fa fa-apple-pay fa-apple-pay-bordered"> </i>
-           <i class="fa fa-2x fa-apple-pay fa-apple-pay-bordered"></i>
+        <i class="fa fa-apple fa-apple-pay"></i>
+        <i class="fa fa-apple-pay fa-apple-pay-bordered"> </i>
+        <i class="fa fa-2x fa-apple-pay fa-apple-pay-bordered"></i>
            
 3. Done!
     
