@@ -11,7 +11,7 @@ Instructions:
        
 2. Use the `fa-apple-pay` or `fa-apple-pay-bordered` classes in place of a Font Awesome class:
 
-        <i class="fa fa-apple fa-apple-pay"></i>
+        <i class="fa fa-apple-pay"></i>
         <i class="fa fa-apple-pay fa-apple-pay-bordered"> </i>
         <i class="fa fa-2x fa-apple-pay fa-apple-pay-bordered"></i>
            
